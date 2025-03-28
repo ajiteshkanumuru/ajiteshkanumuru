@@ -1,4 +1,4 @@
-![logo](https://github.com/Ajitesh394/Ajitesh394/blob/main/Data%20Science%20LinkedIn%20Banner.png)
+![logo](file:///C:/Users/ajite/Desktop/Pictures/Data%20Science%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ajitesh</h1>
 <h3 align="center">A Data Science enthusiast</h3>
 <img align="right" alt="datascience" width="300" src="https://chools.in/wp-content/uploads/data-science-2-1.gif"
