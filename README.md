@@ -1,4 +1,4 @@
-![logo](file:///C:/Users/ajite/Desktop/Pictures/Data%20Science%20LinkedIn%20Banner.png)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQGV8FlT245RqQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725790842614?e=1748476800&v=beta&t=i6V0gSIhn04oxpTIy14uLr8M1swAyFX9dzfHkIDdtoM)
 <h1 align="center">Hi 👋, I'm Ajitesh</h1>
 <h3 align="center">A Data Science enthusiast</h3>
 <img align="right" alt="datascience" width="300" src="https://chools.in/wp-content/uploads/data-science-2-1.gif"
